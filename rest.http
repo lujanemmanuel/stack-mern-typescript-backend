@@ -1,0 +1,9 @@
+@api= http://127.0.0.1/2500
+
+GET {{api}}/videos
+
+###
+GET {{api}}/videos/1
+
+###
+POST {{api}}/videos
